@@ -30,21 +30,21 @@
     </td>
     <td colspan=3 align="center">
       <h3>Frameworks</h3>
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/react.svg" height="40px">
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/nodejs.svg" height="40px"> <br>
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/bootstrap.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/react.svg" height="50px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/nodejs.svg" height="50px"> <br>
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/bootstrap.svg" height="50px">
     </td>
     <td colspan=3 align="center">
       <h3>Database</h3>
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/mongodb.svg" height="40px">
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/mysql.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/mongodb.svg" height="50px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/mysql.svg" height="50px">
     </td>
     <td colspan=3 align="center">
       <h3>Tools</h3>
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/git.svg" height="40px">
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/github.svg" height="40px">
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/npm.svg" height="20px"> <br>
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/aws.png" height="30px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/git.svg" height="50px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/github.svg" height="50px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/npm.svg" height="50px"> <br>
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/aws.png" height="50px">
     </td>
   </tr>
 </table>
