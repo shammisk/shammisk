@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://www.overleaf.com/read/ydhnygrjffmd#a916f8](https://www.overleaf.com/read/ydhnygrjffmd#a916f8)
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; justify-content: space-around;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
     <!-- Group 1 -->
     <div>
         <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -54,6 +54,7 @@
         </a>
     </div>
 </div>
+
 
 
 
