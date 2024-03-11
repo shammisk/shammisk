@@ -20,13 +20,13 @@
   <tr>
     <td colspan=3 align="center">
       <h3>Languages</h3>
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/javascript.svg" height="40px">
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/html.svg" height="40px">
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/css.svg" height="40px">
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/php.svg" height="40px"> <br>
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/python.svg" height="40px"> <br>
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/c.svg" height="40px">
-      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/csharp.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/javascript.svg" height="50px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/html.svg" height="50px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/css.svg" height="50px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/php.svg" height="50px"> <br>
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/python.svg" height="50px"> <br>
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/c.svg" height="50px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/csharp.svg" height="50px">
     </td>
     <td colspan=3 align="center">
       <h3>Frameworks</h3>
