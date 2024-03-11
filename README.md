@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://www.overleaf.com/read/ydhnygrjffmd#a916f8](https://www.overleaf.com/read/ydhnygrjffmd#a916f8)
 
 <h3 align="left">Languages and Tools:</h3>
-<table align="center" border="3" cellspacing="0" cellpadding="0">
+<table align="center" border="3" cellspacing="0" cellpadding="0" style="width: 100%;">
   <tr>
     <td colspan=3 align="center">
       <h3>Languages</h3>
