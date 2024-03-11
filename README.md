@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shammi Gamage</h1>
-<h3 align="center">I'm a BSc(Honors) in Information Technology undergraduate in University of Sri Jayewardenepura.</h3>
+<h1 align="center">Shammi Gamage</h1>
+<h3 align="center">Software Engineering Enthusiast | Undergraduate in BSc(Honors) in IT </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shammisk" alt="shammisk" /></a> </p>
 
