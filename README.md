@@ -16,9 +16,9 @@
 - 📄 Know about my experiences [https://www.overleaf.com/read/ydhnygrjffmd#a916f8](https://www.overleaf.com/read/ydhnygrjffmd#a916f8)
 
 <h3 align="left">Languages and Tools:</h3>
-<table align="center" border="0" cellspacing="10" cellpadding="10">
+<table align="center" border="0" cellspacing="20" cellpadding="10">
   <tr>
-    <td colspan=3 align="center">
+    <td colspan=5 align="center">
       <h3>Languages</h3>
       <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/javascript.svg" height="40px">
       <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/html.svg" height="40px">
