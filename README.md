@@ -16,47 +16,36 @@
 - 📄 Know about my experiences [https://www.overleaf.com/read/ydhnygrjffmd#a916f8](https://www.overleaf.com/read/ydhnygrjffmd#a916f8)
 
 <h3 align="left">Languages and Tools:</h3>
-<style>
-    .icon-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
-    }
-
-    .icon-box {
-        flex-basis: 22%;
-        margin: 10px;
-        padding: 10px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        text-align: center;
-    }
-</style>
-
-<div class="icon-container">
-    <div class="icon-box">
-        <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-        </a>
-    </div>
-    <div class="icon-box">
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-        </a>
-    </div>
-    <div class="icon-box">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-        </a>
-    </div>
-    <div class="icon-box">
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-        </a>
-    </div>
-    <!-- Add more icon-box divs for other icons -->
-</div>
-
+ <tr >
+    <td colspan=3 align="center">
+      <h3>Languages</h3>
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/javascript.svg" height="40px"> 
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/html.svg" height="40px">    
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/css.svg" height="40px">  
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/php.svg" height="40px"> <br>      
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/python.svg" height="40px">  <br>    
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/c.svg" height="40px"> 
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/csarp.svg" height="40px"> 
+    </td>
+    <td colspan=3 align="center">
+      <h3>Frameworks</h3>
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/react.svg" height="40px">        
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/nodejs.svg" height="40px"> <br>
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/bootstrap.svg" height="40px">
+    </td>
+    <td colspan=3 align="center">
+      <h3>Database</h3>
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/mongodb.svg" height="40px"> 
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/mysql.svg" height="40px">
+    </td>
+    <td colspan=3 align="center">
+      <h3>Tools</h3>
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/git.svg" height="40px"> 
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/github.svg" height="40px"> 
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/npm.svg" height="20px"> <br>
+      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/aws.png" height="30px"> 
+    </td>
+  </tr>
 
 
 
