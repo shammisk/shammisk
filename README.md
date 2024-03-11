@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://www.overleaf.com/read/ydhnygrjffmd#a916f8](https://www.overleaf.com/read/ydhnygrjffmd#a916f8)
 
 <h3 align="left">Languages and Tools:</h3>
+<table  align="center" border="0" cellspacing="0" cellpadding="0">
  <tr >
     <td colspan=3 align="center">
       <h3>Languages</h3>
@@ -46,7 +47,7 @@
       <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/aws.png" height="30px"> 
     </td>
   </tr>
-
+</table>
 
 
 
