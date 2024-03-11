@@ -1,7 +1,6 @@
 <h1 align="center">Shammi Gamage</h1>
 <h3 align="center">Software Engineering Enthusiast | Undergraduate in BSc(Honors) in IT </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shammisk" alt="shammisk" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [shammisk.github.io/my_portfolio/](shammisk.github.io/my_portfolio/)
 
@@ -23,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shammisk&show_icons=true&locale=en" alt="shammisk" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shammisk" alt="shammisk" /></a> </p>
 
