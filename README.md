@@ -25,7 +25,7 @@
 <br/>
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shammisk&show_icons=true&locale=en&layout=compact" alt="shammisk" /></p>
+/*<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shammisk&show_icons=true&locale=en&layout=compact" alt="shammisk" /></p> */
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shammisk&show_icons=true&locale=en&theme=dark" alt="shammisk" /></p>
 
