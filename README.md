@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shammisk&show_icons=true&locale=en" alt="shammisk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shammisk&" alt="shammisk" /></p>
+
 
