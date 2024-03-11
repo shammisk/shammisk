@@ -16,38 +16,39 @@
 - 📄 Know about my experiences [https://www.overleaf.com/read/ydhnygrjffmd#a916f8](https://www.overleaf.com/read/ydhnygrjffmd#a916f8)
 
 <h3 align="left">Languages and Tools:</h3>
-<table  align="center" border="0" cellspacing="0" cellpadding="0">
- <tr >
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
     <td colspan=3 align="center">
       <h3>Languages</h3>
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/javascript.svg" height="40px"> 
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/html.svg" height="40px">    
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/css.svg" height="40px">  
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/php.svg" height="40px"> <br>      
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/python.svg" height="40px">  <br>    
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/c.svg" height="40px"> 
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/csarp.svg" height="40px"> 
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/javascript.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/html.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/css.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/php.svg" height="40px"> <br>
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/python.svg" height="40px"> <br>
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/c.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/csharp.svg" height="40px">
     </td>
     <td colspan=3 align="center">
       <h3>Frameworks</h3>
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/react.svg" height="40px">        
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/nodejs.svg" height="40px"> <br>
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/bootstrap.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/react.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/nodejs.svg" height="40px"> <br>
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/bootstrap.svg" height="40px">
     </td>
     <td colspan=3 align="center">
       <h3>Database</h3>
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/mongodb.svg" height="40px"> 
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/mysql.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/mongodb.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/mysql.svg" height="40px">
     </td>
     <td colspan=3 align="center">
       <h3>Tools</h3>
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/git.svg" height="40px"> 
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/github.svg" height="40px"> 
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/npm.svg" height="20px"> <br>
-      <img src="https://github.com/tkdeshan/tkdeshan/blob/main/logo/aws.png" height="30px"> 
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/git.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/github.svg" height="40px">
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/npm.svg" height="20px"> <br>
+      <img src="https://cdn.jsdelivr.net/gh/tkdeshan/tkdeshan@main/logo/aws.png" height="30px">
     </td>
   </tr>
 </table>
+
 
 
 
