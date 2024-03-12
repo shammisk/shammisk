@@ -12,7 +12,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [shammisk.github.io/my_portfolio/](shammisk.github.io/my_portfolio/)
+- 👨‍💻 All of my projects are available at [https://shammisk.github.io/my_portfolio/](https://shammisk.github.io/my_portfolio/)
 
 - 📫 How to reach me **ssamankumari6@gmail.com**
 
