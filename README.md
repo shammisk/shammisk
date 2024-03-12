@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ssamankumari6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RIMhOJMegtOK7xYkPAUqsesA2SkMmp3U/view?usp=sharing](https://drive.google.com/file/d/1RIMhOJMegtOK7xYkPAUqsesA2SkMmp3U/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1faw1vr9GbGfx7Ps_Wn_8pKioUByGG8MH/view?usp=sharing](https://drive.google.com/file/d/1faw1vr9GbGfx7Ps_Wn_8pKioUByGG8MH/view?usp=sharing)
   <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
