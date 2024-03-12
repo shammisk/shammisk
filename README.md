@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ssamankumari6@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/ydhnygrjffmd#a916f8](https://www.overleaf.com/read/ydhnygrjffmd#a916f8)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o7WTTI-Fmrl-Ap_noqIGUEk87KNvPXVb/view?usp=sharing](https://drive.google.com/file/d/1o7WTTI-Fmrl-Ap_noqIGUEk87KNvPXVb/view?usp=sharing)
   <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
