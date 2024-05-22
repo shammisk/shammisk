@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ssamankumari6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OK60p1AcuNl2I9ceVsm7t7mJHVokHR8k/view?usp=sharing](Shammi Gamage CV)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OK60p1AcuNl2I9ceVsm7t7mJHVokHR8k/view?usp=sharing]((https://drive.google.com/file/d/1OK60p1AcuNl2I9ceVsm7t7mJHVokHR8k/view?usp=sharing)
   <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
