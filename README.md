@@ -8,6 +8,8 @@
     <a href="https://linkedin.com/in/shammi gamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shammi gamage" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/shammi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shammi" height="30" width="40" /></a>
     <a href="https://fb.com/shammi dodangoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shammi dodangoda" height="30" width="40" /></a>
+   <a href="https://shammid.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="shammi dodangoda" height="30" width="40" /></a>
+
 </p>
 
 
