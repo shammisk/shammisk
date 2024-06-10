@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shammi+Gamage!;" />
 </h1>
-<h3 align="center">Software Engineering Enthusiast | Undergraduate in BSc(Honours) in IT </h3>
+<h3 align="center">Software Intern | Tech Enthusiast | Blogger </h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/shammi gamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shammi gamage" height="30" width="40" /></a>
