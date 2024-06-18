@@ -14,11 +14,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://shammisk.github.io/my_portfolio/](https://shammisk.github.io/my_portfolio/)
+- 👨‍💻 All of my projects are available at [https://shammisk.github.io/portfolio/](https://shammisk.github.io/portfolio/)
 
 - 📫 How to reach me **ssamankumari6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OK60p1AcuNl2I9ceVsm7t7mJHVokHR8k/view?usp=sharing](https://drive.google.com/file/d/1OK60p1AcuNl2I9ceVsm7t7mJHVokHR8k/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Dnw4ViMLloBjUuaRHyIF3DtzT8iYRz6z/view?usp=sharing](https://drive.google.com/file/d/1Dnw4ViMLloBjUuaRHyIF3DtzT8iYRz6z/view?usp=sharing)
   <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
